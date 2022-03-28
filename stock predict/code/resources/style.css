@@ -1,0 +1,80 @@
+body li{
+    list-style: none;
+    display: inline-block;
+}
+.biaotou1 p{
+    display: inline-block;
+    padding-left: 0.1em;
+    font-size: 16px;
+}
+.biaotou1 div{
+    display: inline-block;
+    padding-right: 0.5em;
+}
+.biaotou1{
+    width: 83%;
+    margin: auto;
+    font-size: 16px;
+    margin-bottom: -2em;
+}
+.time1 li{
+    list-style: none;
+    display: inline-block;
+    border: 1px black solid;
+    padding: 0.1em 0.5em;
+}
+.c4_5 li{
+    list-style: none;
+    display: inline-block;
+}
+.c4_1text
+.c4_3text{
+    width: 90%;
+}
+.c4_1text ul li,
+.c4_3text ul li{
+    font-size: 20px; 
+    margin: 0 0.2em;
+}
+.c4_5text ul li{
+    font-size: 20px; 
+    font-weight: 700;
+    width:10%;
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+}
+table.gridtable {
+/*     font-family: verdana,arial,sans-serif; */
+    font-size:16px;
+    margin-top: 3em;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+    height: 10em;
+    width: 100%;
+    
+}
+table.gridtable th {
+/*     border-top: 2px solid rgb(115, 163, 245);
+    border-bottom: 1px solid #666; */
+    border-width: 1px;
+    padding: 0 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: rgb(77, 131, 255,0.9);
+    color:#fff;
+    text-align: left;
+}
+table.gridtable td {
+    font-weight: 500;
+    border-width: 1px;
+    padding: 0 8px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #ffffff;
+    text-align: center;
+}
+table.gridtable td p{
+    display: inline-block;
+}

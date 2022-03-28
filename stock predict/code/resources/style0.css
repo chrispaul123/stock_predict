@@ -1,0 +1,47 @@
+body li{
+    list-style: none;
+    display: inline-block;
+}
+.biaotou1 p{
+    display: inline-block;
+    padding-left: 0.1em;
+    font-size: 20px;
+}
+.biaotou1 div{
+    display: inline-block;
+    padding-right: 0.5em;
+}
+.biaotou1{
+    width: 83%;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: -2em;
+}
+.time1 li{
+    list-style: none;
+    display: inline-block;
+    border: 1px black solid;
+    padding: 0.1em 0.5em;
+}
+.c4_5 li{
+    list-style: none;
+    display: inline-block;
+}
+.c4_1text
+.c4_3text{
+    width: 90%;
+}
+.c4_1text ul li,
+.c4_3text ul li{
+    font-size: 20px; 
+    margin: 0 0.2em;
+}
+.c4_5text ul li{
+    font-size: 20px; 
+    font-weight: 700;
+    width:10%;
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+}
+
+
